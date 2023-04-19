@@ -8,7 +8,7 @@ st.image(header_images)
 
 # Add some information about the service
 st.title("Air Contaminant Standard Index Prediction")
-st.subheader("Just enter variabel below then click Predict button :sunglasses:")
+st.subheader("Just enter the variables below, then click Predict button :sunglasses:")
 
 # Create form of input
 with st.form(key = "air_data_form"):
