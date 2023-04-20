@@ -124,3 +124,8 @@ Each pollutant has its own AQI scale with breakpoints that define the different 
 | **Model Training** | | | ||**X**|**X**|**X**|**X**| | |
 | **Model Evaluation** | | | | | | | | |**X**| |
 | **Model Deployment** || | | | | | | | |**X**|
+
+## **Format Mesages Via API**
+| **Success Response** | **Failed Response** |
+|--|--|
+|![](https://github.com/favhmu/air-quality/blob/main/assets/format-messages-via-api-and-responses_success.png)|![](https://github.com/favhmu/air-quality/blob/main/assets/format-messages-via-api-and-responses_failed.png)|
